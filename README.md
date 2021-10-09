@@ -2,7 +2,7 @@
 
 ### Credit card checksum validate
 
-The program written in both C and python which validate the credit cards by using  an algorithm invented by Hans Peter Luhn of IBM. This program will check is this credit card valid and what is the type
+The program written in both version of C and python which validate the credit cards by using  an algorithm invented by Hans Peter Luhn of IBM. This program will check is this credit card valid and what is the type
 
 CS50 Pset
 
