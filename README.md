@@ -39,38 +39,38 @@ So in the last digit in that sum (20) is a 0, so this card is valid.
 
 # Run the program in C
 ```
-~/pset1/credit/ $ ./credit
+~/ $ ./credit
 Number: 4003600000000014
 VISA
 
-~/pset1/credit/ $ ./credit
+~/ $ ./credit
 Number: 378282246310005
 AMEX
 
-~/pset1/credit/ $ ./credit
+~/ $ ./credit
 Number: 5555555555554444
 MASTERCARD
 
-~/pset1/credit/ $ ./credit
+~/ $ ./credit
 Number: 369421438430814
 INVALID
 ```
 
 # Run the program in python
 ```
-~/pset1/credit/ $ python credit.py
+~/ $ python credit.py
 Number: 4003600000000014
 VISA
 
-~/pset1/credit/ $ python credit.py
+~/ $ python credit.py
 Number: 378282246310005
 AMEX
 
-~/pset1/credit/ $ python credit.py
+~/ $ python credit.py
 Number: 5555555555554444
 MASTERCARD
 
-~/pset1/credit/ $ python credit.py
+~/ $ python credit.py
 Number: 369421438430814
 INVALID
 ```
